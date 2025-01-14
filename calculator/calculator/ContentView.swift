@@ -32,7 +32,7 @@ struct ContentView: View {
                 .font(.system(size: 72))
                 .frame(maxWidth: .infinity, alignment: .trailing)
                 .padding()
-                .padding(.top, 200)
+                .padding(.top, 240)
                 .foregroundColor(.white)
             
             // Buttons
